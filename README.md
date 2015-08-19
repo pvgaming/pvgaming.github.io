@@ -28,12 +28,10 @@ Using [http://www.wampserver.com/en/](WAMP)
 Skype : captain.blade
 
 "Metadrag" @metadrag
-Skype : 
+Skype : rithvik.drago.rev
 ##How to submit bugs
 
-instructions to install, configure, and to run the programs
-instruction to grab the latest code and detailed instructions to build it (or quick overview and "Read INSTALL")
-
+We are using the GitHub Issues as Bug Tracker and Feature Requests.
 #Contact
 "Cappy"
 capbucket@gmail.com
