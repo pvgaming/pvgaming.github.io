@@ -20,8 +20,8 @@ Clone in Desktop, Right hand side of the page.
 
 ##Suggested Editing Tools
 
-- [http://www.wampserver.com/en/](WAMP)
-- [](SublimeText2)
+- [WAMP](rithvik.drago.rev)
+- [SublimeText2]()
 - []()
 
 ##Authors
