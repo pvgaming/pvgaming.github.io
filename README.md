@@ -1,5 +1,5 @@
-#PVGaming - Personal Vendettas Gaming Website. 
-
+#Personal Vendettas Gaming Website. 
+##File Structure
  -| css (container folder for css)
 
  -| fonts (container folder for icons, fonts, svgs etc)
@@ -12,17 +12,19 @@
 
 copyright and licensing information (or "Read LICENSE")
 
-##To Install the Website - 
+##To Install the Website
 
 Using [https://help.github.com/articles/fork-a-repo/](this) handy guide!
 
 Clone in Desktop, Right hand side of the page. 
 
-##Best way to run it - 
+##Suggested Editing Tools
 
-Using [http://www.wampserver.com/en/](WAMP)
+- [http://www.wampserver.com/en/](WAMP)
+- [](SublimeText2)
+- []()
 
-##Authors -
+##Authors
 
 "Cappy" @qlmoffat
 Skype : captain.blade
