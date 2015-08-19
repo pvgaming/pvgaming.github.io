@@ -1,9 +1,13 @@
 #PVGaming - Personal Vendettas Gaming Website. 
 
  -|css (container folder for css)
+
  -|fonts (container folder for icons, fonts, svgs etc)
+
  -|images (container folder for images)
+
  -|js (container folder for js)
+ 
  -index.html (main file)
 
 copyright and licensing information (or "Read LICENSE")
