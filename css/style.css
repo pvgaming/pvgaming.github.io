@@ -121,7 +121,7 @@
 
 		a:hover
 		{
-			color: #E27689;
+			color: #0066CC;
 			border-bottom-color: rgba(255,255,255,0);
 		}
 
@@ -673,7 +673,7 @@
 
 							#nav ul li a.active span:before
 							{
-								color: #e27689;
+								color: #0066CC;
 							}
 
 /*********************************************************************************/
@@ -793,6 +793,7 @@
 				#main > section.five
 			{	
 				background-color:#000;
+				height:220vh;
 			}
 			#main > section.six
 			{	
@@ -803,4 +804,9 @@
 			{	
 				background-image: url('../images/vbannerteams.png');
 				height:100vh;
+			}
+				#main > section.eight
+			{	
+				background-color:#000;
+				height:70vh;
 			}
