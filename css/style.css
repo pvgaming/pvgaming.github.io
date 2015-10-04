@@ -37,15 +37,15 @@
 		font-size: 19pt;
 		font-weight: 100;
 		line-height: 1.75em;
-		color: #888;
+		color: #000;
 	}
 
 	h1,h2,h3,h4,h5,h6
 	{
 		font-family: 'Roboto', sans-serif;
 		font-weight: 100;
-		color: #666;
-		line-height: 2em;
+		color: #000;
+		line-height: 3em;
 	}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -774,13 +774,13 @@
 
 			#main > section.two
 			{
-				background-image: url('../images/vbannerabout.png');
+				background-color:#F1F1F1;
 				height:100vh;
 			}
 		
 			#main > section.three
 			{
-				background-image: url('../images/vbannerteams.png');
+				background-image: url('../images/bird.jpg');
 				height:100vh;
 				margin:auto;
 			}
@@ -792,21 +792,17 @@
 			}
 				#main > section.five
 			{	
-				background-color:#000;
-				height:220vh;
+				background-color:#F1F1F1;
+				height:240vh;
 			}
 			#main > section.six
 			{	
 				background-image: url('../images/vbanner2.png');
 				height:100vh;
 			}
-			#main > section.sevem
-			{	
-				background-image: url('../images/vbannerteams.png');
-				height:100vh;
-			}
 				#main > section.eight
 			{	
-				background-color:#000;
+				background-color:#F1F1F1;
 				height:70vh;
 			}
+		
